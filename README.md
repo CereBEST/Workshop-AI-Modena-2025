@@ -1,5 +1,6 @@
 ![code_python_badge](https://badgen.net/badge/code/python/yellow?icon=python)
 ![ide_vscode_badge](https://badgen.net/badge/ide/vscode/blue?icon=visualstudio)
+![ide_colab_badge](https://badgen.net/badge/ide/colab/orange?icon=colab)
 
 # Corso di AI "Oltre il prompt: guida pratica all’intelligenza artificiale per studenti e programmatori"
 Benvenuti nella repository del corso "Oltre il prompt: guida pratica all’intelligenza artificiale per studenti e programmatori" per l'anno 2025!

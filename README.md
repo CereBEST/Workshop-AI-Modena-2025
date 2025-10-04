@@ -30,7 +30,11 @@ Il corso si terrà al **Laboratorio Aperto di Modena**, Viale Buon Pastore, 43, 
 * **Pensiero critico:** riconoscere bias, limiti e responsabilità etiche degli algoritmi.
 * **Competenze per il futuro:** strategie per integrare l’AI nel tuo lavoro e sfruttarla come leva di innovazione e creatività.
 
-## Licence:
+## Cosa troverai in questa repo:
+
+Il codice e i materiali che fornirò a lezione. Ci sarà una cartella per ogni lezione e conterrà gli script in formato .py e/o .ipynb.
+
+## Licenza:
 
 "Oltre il prompt: guida pratica all’intelligenza artificiale per studenti e programmatori" © 2025 by Francesco Di Gruttola is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 

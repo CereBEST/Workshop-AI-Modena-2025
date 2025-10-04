@@ -20,22 +20,22 @@ Benvenuti nella repository del corso "Oltre il prompt: guida pratica all’intel
 * **Mercoledì 19 novembre, 14:00 - 18:00:** *Computer Vision (parte 1)*
 * **Lunedì 24 novembre, 14:00 - 18:00:** *Computer Vision (parte 2)*
 
-## Dove:
+## Dove si svolgerà il corso
 
 Il corso si terrà al **Laboratorio Aperto di Modena**, Viale Buon Pastore, 43, 41124 Modena MO
 
-## Cosa Imparerai:
+## Cosa Imparerai
 
 * **Fondamenti tecnici:** concetti chiave di Machine Learning e Computer Vision spiegati in modo chiaro e applicabile.
 * **Progetti concreti:** realizzerai i tuoi primi prototipi utilizzando Python e librerie specializzate.
 * **Pensiero critico:** riconoscere bias, limiti e responsabilità etiche degli algoritmi.
 * **Competenze per il futuro:** strategie per integrare l’AI nel tuo lavoro e sfruttarla come leva di innovazione e creatività.
 
-## Cosa troverai in questa repo:
+## Cosa troverai in questa repo
 
 Il codice e i materiali che fornirò a lezione. Ci sarà una cartella per ogni lezione e conterrà gli script in formato .py e/o .ipynb.
 
-## Licenza:
+## Licenza
 
 "Oltre il prompt: guida pratica all’intelligenza artificiale per studenti e programmatori" © 2025 by Francesco Di Gruttola is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 

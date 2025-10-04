@@ -11,14 +11,14 @@ Benvenuti nella repository del corso "Oltre il prompt: guida pratica all’intel
 
 ## Lezioni e argomenti
 
-* **Domenica 5 ottobre, 10.30 - 12.15:** *Introduzione all'AI (parte 1)*
-* **Mercoledì 15 ottobre, 14:00 - 18:00:** *Introduzione all'AI (parte 2)*
-* **Lunedì 20 ottobre, 14:00 - 18:00:** *Python per l’AI*
-* **Lunedì 27 ottobre, 14:00 - 18:00:** *Il Machine Learning “Classico”*
-* **Mercoledì 5 novembre, 14:00 - 18:00:** *Il Deep Learning (parte 1)*
-* **Lunedì 10 novembre, 14:00 - 18:00:** *Il Deep Learning (parte 2)*
-* **Mercoledì 19 novembre, 14:00 - 18:00:** *Computer Vision (parte 1)*
-* **Lunedì 24 novembre, 14:00 - 18:00:** *Computer Vision (parte 2)*
+* Lezione 0 **Domenica 5 ottobre, 10.30 - 12.15:** *Introduzione all'AI (parte 1)*
+* Lezione 1 **Mercoledì 15 ottobre, 14:00 - 18:00:** *Introduzione all'AI (parte 2)*
+* Lezione 2 **Lunedì 20 ottobre, 14:00 - 18:00:** *Python per l’AI*
+* Lezione 3 **Lunedì 27 ottobre, 14:00 - 18:00:** *Il Machine Learning “Classico”*
+* Lezione 4 **Mercoledì 5 novembre, 14:00 - 18:00:** *Il Deep Learning (parte 1)*
+* Lezione 5 **Lunedì 10 novembre, 14:00 - 18:00:** *Il Deep Learning (parte 2)*
+* Lezione 6 **Mercoledì 19 novembre, 14:00 - 18:00:** *Computer Vision (parte 1)*
+* Lezione 7 **Lunedì 24 novembre, 14:00 - 18:00:** *Computer Vision (parte 2)*
 
 ## Dove si svolgerà il corso
 

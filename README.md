@@ -1,5 +1,6 @@
 !\[code_python_badge\](https://badgen.net/
-badge/code/python/yellow?icon=python) !\[ide_vscode_badge\](https://badgen.net/
+badge/code/python/yellow?icon=python)
+!\[ide_vscode_badge\](https://badgen.net/
 badge/ide/vscode/blue?icon=visualstudio)
 
 # Workshop-AI-Modena-2025

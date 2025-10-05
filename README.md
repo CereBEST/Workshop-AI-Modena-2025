@@ -11,7 +11,7 @@ Benvenuti nella repository del corso "Oltre il prompt: guida pratica all’intel
 
 ## Iscrizione al corso
 
-Scrivere ai Laboratori Aperti di Modena, maggiori informazioni [a questo link](https://laboratorioapertomodena.it/talentiamo/)!
+Scrivere ai Laboratori Aperti di Modena all'indirizzo modena@labaperti.it. Maggiori informazioni sui Laboratori Aperti di Modena [a questo link](https://laboratorioapertomodena.it)!
 
 ## Lezioni e argomenti
 

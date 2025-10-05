@@ -9,6 +9,10 @@ Benvenuti nella repository del corso "Oltre il prompt: guida pratica all’intel
 
 * [Francesco Di Gruttola](https://www.cerebest.com/), PhD in Neuroscienze ed esperto in AI
 
+## Iscrizione al corso
+
+Scrivere ai Laboratori Aperti di Modena, maggiori informazioni [a questo link](https://laboratorioapertomodena.it/talentiamo/)!
+
 ## Lezioni e argomenti
 
 * Lezione 0 **Domenica 5 ottobre, 10.30 - 12.15:** *Introduzione all'AI (parte 1)*

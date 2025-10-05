@@ -11,7 +11,7 @@ Benvenuti nella repository del corso "Oltre il prompt: guida pratica all’intel
 
 ## Iscrizione al corso
 
-Scrivere a Laboratorio Aperto di Modena all'indirizzo modena@labaperti.it. Maggiori informazioni sul Laboratorio Aperto di Modena [a questo link!](https://laboratorioapertomodena.it) Il corso è gratuito.
+Scrivere al Laboratorio Aperto di Modena all'indirizzo modena@labaperti.it. Maggiori informazioni sul Laboratorio Aperto di Modena [a questo link!](https://laboratorioapertomodena.it) Il corso è gratuito.
 Ulteriori info sul progetto [qui.](https://talentiamo.comune.modena.it/oltre-il-prompt-guida-pratica-allintelligenza-artificiale-per-studenti-e-programmatori/)
 
 ## Lezioni e argomenti
@@ -40,7 +40,7 @@ Il corso si terrà al **Laboratorio Aperto di Modena**, Viale Buon Pastore, 43, 
 
 Il codice e i materiali che fornirò a lezione. Ci sarà una cartella per ogni lezione e conterrà gli script in formato .py e/o .ipynb.
 
-## Licenza
+## Licenza del materiale
 
 "Oltre il prompt: guida pratica all’intelligenza artificiale per studenti e programmatori" © 2025 by Francesco Di Gruttola is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 

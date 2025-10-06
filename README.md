@@ -11,8 +11,7 @@ Benvenuti nella repository del corso "Oltre il prompt: guida pratica all’intel
 
 ## Iscrizione al corso
 
-Scrivere al Laboratorio Aperto di Modena all'indirizzo modena@labaperti.it. Maggiori informazioni sul Laboratorio Aperto di Modena [a questo link!](https://laboratorioapertomodena.it) Il corso è gratuito.
-Ulteriori info sul progetto [qui.](https://talentiamo.comune.modena.it/oltre-il-prompt-guida-pratica-allintelligenza-artificiale-per-studenti-e-programmatori/)
+Per iscriverti compila [questo form!](https://forms.gle/Dq1sKTZuFpDaUuLk7) Il corso è gratuito.
 
 ## Lezioni e argomenti
 

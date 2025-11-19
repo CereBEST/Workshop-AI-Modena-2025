@@ -22,7 +22,7 @@ Per iscriverti compila [questo form!](https://forms.gle/Dq1sKTZuFpDaUuLk7) Il co
 * Lezione 4 **Mercoledì 5 novembre, 14:00 - 18:00:** *Il Machine Learning “Classico” (parte 2)*
 * Lezione 5 **Lunedì 10 novembre, 14:00 - 18:00:** *Il Deep Learning (parte 1)*
 * Lezione 6 **Mercoledì 19 novembre, 14:00 - 18:00:** *Il Deep Learning (parte 2)*
-* Lezione 7 **Lunedì 24 novembre, 14:00 - 18:00:** *Computer Vision (parte 2)*
+* Lezione 7 **Mercoledì 26 novembre, 14:00 - 18:00:** *Computer Vision*
 
 ## Dove si svolgerà il corso
 
